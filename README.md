@@ -1,24 +1,3 @@
-# rick-morty
+Vue con Composition API y TypeScript
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![rick morty](https://user-images.githubusercontent.com/74424452/121404254-2880a780-c932-11eb-99e8-281c7416ec6a.png)
